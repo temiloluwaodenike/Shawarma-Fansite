@@ -1,0 +1,18 @@
+h1{
+  color: red;
+font-size: 100px;
+animation-name: slidein;
+animation-duration: 1s;
+}
+
+P{
+
+font-size: 25px;
+font-weight: bolder;
+animation-name: poem;
+animation-duration: 5s;
+}
+
+body{font-family:'shadows into light', cursive;
+  background: url(https://www.licious.in/blog/wp-content/uploads/2022/02/shutterstock_1339636625-600x600.jpg)
+}
